@@ -1,4 +1,10 @@
-
+(*
+ * File: Types.typ
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of QuickIO, licensed under the MIT License.
+ *)
 TYPE
 	EncoderEmulator_typ : 	STRUCT 
 		IN : EncoderEmulator_IN_typ;
