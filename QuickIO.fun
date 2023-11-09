@@ -5,6 +5,7 @@
  * 
  * This file is part of QuickIO, licensed under the MIT License.
  *)
+ 
 FUNCTION EncoderEmulatorFn : BOOL
 	VAR_INPUT
 		Encoder : EncoderEmulator_typ;

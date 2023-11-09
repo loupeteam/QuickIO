@@ -5,6 +5,7 @@
  * 
  * This file is part of QuickIO, licensed under the MIT License.
  */
+
 #include <bur/plctypes.h>
 #ifdef __cplusplus
 	extern "C"
