@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.3.8.58 SP?>
+<Library Version="0.00.2" xmlns="http://br-automation.co.at/AS/Library">
+  <Files>
+    <File Description="Exported data types">Types.typ</File>
+    <File Description="Exported constants">Constants.var</File>
+    <File Description="Exported functions and function blocks">QuickIO.fun</File>
+    <File>Source.c</File>
+    <File>DS4389_DRV.c</File>
+  </Files>
+  <Dependencies>
+    <Dependency ObjectName="AsIOTime" />
+    <Dependency ObjectName="AsIOAcc" />
+  </Dependencies>
+</Library>
